@@ -1,0 +1,4 @@
+- Integrates AI-driven insights, expense tracking, goal setting, mood analysis, unified money conversion and real-time location awareness into a single platform.
+- Provides live maps showing high-spending zones, calendar-based reminders for upcoming expenses, and mood-based spending insights.
+- Protects user privacy while offering personalized, data-driven financial suggestions tailored to income, spending habits, and emotional trends.
+- While existing finance apps address isolated needs, FinSight delivers a unified, intelligent ecosystem that transforms expense tracking into proactive financial management.
